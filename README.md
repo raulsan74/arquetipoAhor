@@ -1,0 +1,2 @@
+# arquetipoAhor
+Prototipo juego ahorcado
