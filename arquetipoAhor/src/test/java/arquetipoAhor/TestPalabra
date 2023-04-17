@@ -10,7 +10,7 @@ import java.util.TreeSet;
 import org.junit.After;
 import org.junit.Before;
 
-import arquetipoAhor.Palabra;
+
 import junit.framework.TestCase;
 
 @SuppressWarnings("unused")
