@@ -4,7 +4,7 @@ package arquetipoAhor;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-import arquetipoAhorc.EstadoAhorcado;
+import arquetipoAhor.EstadoAhorcado;
 
 
 import junit.framework.TestCase;
