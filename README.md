@@ -85,11 +85,17 @@ Considerando un trabajo:
   <br>
   <h2 BOLD>DIAGRAMA DE CLASES</H2 BOLD>
   
+  
  ![Ahorcado5](https://user-images.githubusercontent.com/108556884/232639236-66ca06df-0aa4-4eca-a865-86ea9da279ec.png)
  
- 
- 
+  <h2 BOLD>CASO DE USO MENÚ PROTOTIPO JUEGO AHORCADO</H2 BOLD>
+  
+  <CENTER>
+  
+  ![Caso de Uso Menu1](https://user-images.githubusercontent.com/108556884/232643689-78949944-43c9-453f-ab90-deac9e4e4217.png)
 
+ 
+  </CENTER>
     
     
     
