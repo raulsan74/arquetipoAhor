@@ -90,18 +90,26 @@ Considerando un trabajo:
  
   <br>
   <br>
-  <h2 BOLD>CASO DE USO MENÚ PROTOTIPO JUEGO AHORCADO</H2 BOLD>
+  <H2 BOLD>CASO DE USO MENÚ PROTOTIPO JUEGO AHORCADO</H2 BOLD>
   
-  <CENTER>
+  
   
   ![Caso de Uso Menu1](https://user-images.githubusercontent.com/108556884/232643689-78949944-43c9-453f-ab90-deac9e4e4217.png)
+  
+  
+  
+  
+   <br>
+  <br>
+  <H2 BOLD>DOCUMENTACIÓN:</H2 BOLD>
+  
+  
+  
+  
 
  
-  </CENTER>
-    <br>
-    <br>
-    
-    <h2 BOLD>DOCUMENTACIÓN</H2 BOLD>
+  
+   
     
     
     
