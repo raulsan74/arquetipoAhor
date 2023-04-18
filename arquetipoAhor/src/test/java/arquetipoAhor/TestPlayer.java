@@ -1,4 +1,4 @@
-package junit;
+package arquetipoAhor;
 
 import static org.junit.Assert.*;
 
@@ -7,9 +7,9 @@ import java.util.TreeSet;
 
 import org.junit.Test;
 
-import es.uned.master.java.EstadoAhorcado;
-import es.uned.master.java.FileAhorcado;
-import es.uned.master.java.Player;
+import arquetipoAhor.EstadoAhorcado;
+import arquetipoAhor.java.FileAhorcado;
+import arquetipoAhor.java.Player;
 import junit.framework.TestCase;
 
 public class TestPlayer  extends TestCase {
