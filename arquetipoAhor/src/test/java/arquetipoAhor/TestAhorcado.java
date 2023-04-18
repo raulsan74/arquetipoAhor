@@ -1,4 +1,4 @@
-package junit;
+package arquetipoAhor ;
 
 import static org.junit.Assert.*;
 
@@ -8,9 +8,9 @@ import java.util.Scanner;
 
 import org.junit.Test;
 
-import es.uned.master.java.Ahorcado;
-import es.uned.master.java.FileAhorcado;
-import es.uned.master.java.Player;
+import arquetipoAhor.Ahorcado;
+import arquetipoAhor.FileAhorcado;
+import arquetipoAhor.Player;
 import junit.framework.TestCase;
 
 public class TestAhorcado extends TestCase {
