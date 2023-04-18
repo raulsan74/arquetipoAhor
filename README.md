@@ -85,7 +85,13 @@ Considerando un trabajo:
   <br>
   <h2 BOLD>DIAGRAMA DE CLASES</H2 BOLD>
   
-  <h2 CENTER BOLD>
+ ![Ahorcado5](https://user-images.githubusercontent.com/108556884/232639236-66ca06df-0aa4-4eca-a865-86ea9da279ec.png)
+ 
+ 
+ 
+
+    
+    
     
     
 
