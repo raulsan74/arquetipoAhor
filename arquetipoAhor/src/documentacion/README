@@ -1,0 +1,59 @@
+# Ahorcado v1
+
+Early but functional version of the popular hangman game written in Java. It runs on console and writes the progress of the players in plain text files.
+It structure is based on this early UML:
+
+![img.png](img.png)
+
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage and features](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+As is still in develpment, it has no .jar file nor executable. To try it, just clone the project and run it on console:
+
+git clone https://github.com/Dinora15/arquetipoAhor.git
+
+
+## Usage and features
+
+The game is fully functional and displays the following features:
+
+1. It has a premade list of players, but it could be made that you can use a completely new one:
+
+![img_1.png](img_1.png)
+
+2. You can save and load your game by writing on files (all arranged in the FileAhorcado class).
+![img_2.png](img_2.png)
+
+
+3. You can exit the game at any moment by typing 9 and exit ('Salir').
+
+4. It shows graphicaly the hangman representation so you can see how close you are to losing the game.
+
+
+## Contributing
+
+Functional as it is, it can and should be still improved and upgraded. Some of the changes the development team has in mind 
+include:
+
+1. Multiplayer mode, so two or more players try to be the first getting the word right.
+2. Playing as someone with a different name as those already included (just typing yor name).
+3. Allowing new words to play with, aside from those in the list. It would improve replayability.
+4. Change the save/load to a database based one instead of files. 
+
+
+We'd be grateful if you create a new branch to try new implementations related (or not) to this project.
+
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+
