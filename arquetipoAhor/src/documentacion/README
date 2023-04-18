@@ -29,6 +29,8 @@ The game is fully functional and displays the following features:
 
 ![img_1.png](img_1.png)
 
+
+
 2. You can save and load your game by writing on files (all arranged in the FileAhorcado class).
 ![img_2.png](img_2.png)
 
