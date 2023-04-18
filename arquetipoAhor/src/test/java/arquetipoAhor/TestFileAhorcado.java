@@ -1,10 +1,10 @@
-package junit;
+package arquetipoAhor;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import es.uned.master.java.FileAhorcado;
+import arquetipoAhor.FileAhorcado;
 import junit.framework.TestCase;
 
 public class TestFileAhorcado extends TestCase  {
