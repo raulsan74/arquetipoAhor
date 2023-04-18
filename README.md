@@ -122,6 +122,8 @@ Considerando un trabajo:
   
   <BR>
   <BR>
+    
+    
   El desarrollo del prototipo del Juego Ahorcado nos ha permitido:
   
   - Iniciar programación Orientada a Objetos
@@ -140,6 +142,9 @@ Considerando un trabajo:
   <BR>
   
   
+    https://docs.oracle.com/en/java/
+    https://docs.oracle.com/javase/7/docs/api/
+    https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html
   
   
   
