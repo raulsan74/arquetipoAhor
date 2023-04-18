@@ -116,7 +116,9 @@ Considerando un trabajo:
   
   https://github.com/Dinora15/arquetipoAhor/tree/master/arquetipoAhor/src/test/java/arquetipoAhor
   
-  
+  <br>
+  <br>
+  <H2 BOLD>CONCLUSIONES:</H2 BOLD>
   
   
   
