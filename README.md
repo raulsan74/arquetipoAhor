@@ -120,6 +120,26 @@ Considerando un trabajo:
   <br>
   <H2 BOLD>CONCLUSIONES:</H2 BOLD>
   
+  <BR>
+  <BR>
+  El desarrollo del prototipo del Juego Ahorcado nos ha permitido:
+  
+  - Iniciar programación Orientada a Objetos
+  - Definición de Clases y Objetos
+  - Manejo de variables y métodos de las Clases
+  - Manejo de Encapsulamiento, Herencia, Excepciones
+  - Instanciar una clase
+  - La importancia del trabajo en equipo
+  
+  
+  <br>
+  <br>
+  <H2 BOLD>BIBLIOGRAFÍA:</H2 BOLD>
+  
+  <BR>
+  <BR>
+  
+  
   
   
   
