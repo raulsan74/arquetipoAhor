@@ -53,7 +53,7 @@ Se puede considerar que utilizamos una Metodología Ágil en Cascada realizando:
 <BR>
  <BR>
 
-- Planteamiento del Problema (Requisitos) 
+- Planteamiento del Problema (Requisitos Funcionales) 
 
 - Análisis 
 
