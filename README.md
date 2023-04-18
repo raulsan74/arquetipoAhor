@@ -98,6 +98,10 @@ Considerando un trabajo:
 
  
   </CENTER>
+    <br>
+    <br>
+    
+    <h2 BOLD>DOCUMENTACIÓN</H2 BOLD>
     
     
     
