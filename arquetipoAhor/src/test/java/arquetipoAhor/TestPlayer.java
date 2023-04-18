@@ -8,8 +8,8 @@ import java.util.TreeSet;
 import org.junit.Test;
 
 import arquetipoAhor.EstadoAhorcado;
-import arquetipoAhor.java.FileAhorcado;
-import arquetipoAhor.java.Player;
+import arquetipoAhor.FileAhorcado;
+import arquetipoAhor.Player;
 import junit.framework.TestCase;
 
 public class TestPlayer  extends TestCase {
